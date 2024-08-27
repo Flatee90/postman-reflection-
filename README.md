@@ -14,7 +14,7 @@ Details:
   * Response size: 8.33 KB
   * Height: 16
   * Held-item: silver-gold, omega-ruby-sapphire
-  * ![image](https://github.com/user-attachments/assets/1be6eaa1-8c8f-49af-809c-146ffe65d57d)
+  * ![image](https://res.cloudinary.com/dkyvfb3y2/image/upload/v1724796485/Screenshot_2024-08-27_170716_z0nqwx.png)
 
     Name: Weedle
     URL: https://pokeapi.co/api/v2/pokemon/13
